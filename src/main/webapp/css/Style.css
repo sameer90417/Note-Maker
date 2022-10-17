@@ -1,0 +1,24 @@
+.navbar{
+    box-shadow: 0 5px 0.7 black;
+}
+
+
+.section1{
+    height: 80vh;
+    width: 100%;;
+    background-image: linear-gradient(to right, rgb(0, 0, 0, 0.7), rgb(255, 254, 254, 0.5)),  url(https://images.pexels.com/photos/4245826/pexels-photo-4245826.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    text-shadow: 1px 1px black;
+}
+
+.started{
+    padding: 5px 30px;
+    border-radius: 20px;
+    font-size: 20px;
+}
+
+.homecontent{
+    margin-top: 200px;
+}
